@@ -1,8 +1,8 @@
-# Calculator
+# Password Generator
 
-A Python calculator application developed using Python.
+A simple Password Generator developed using Python.
 
 Features:
-- Basic arithmetic operations
-- User-friendly interface
-- Scientific calculations
+- Generate strong random passwords
+- User can choose password length
+- Easy to uses
